@@ -5,6 +5,9 @@ Created on 23/02/2018
 
 XXX: https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=183
 '''
+# XXX: https://cs.stackexchange.com/questions/11232/correctness-of-strongly-connected-components-algorithm-for-a-directed-graph
+# XXX: https://www.geeksforgeeks.org/strongly-connected-components/
+
 
 import logging
 import sys
